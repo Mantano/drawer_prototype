@@ -1,16 +1,12 @@
-# drawer_prototype
+# Drawer challenge
 
-Some investigations on the Drawer
+A Flutter implementation based on Minh Pham's [3D Flip design](https://dribbble.com/shots/4773637-3D-flip-menu).
 
-## Getting Started
+## Design
+![3dflip](https://user-images.githubusercontent.com/16286046/72804942-0198d700-3c52-11ea-9c15-1f1bff6264a7.gif)
 
-This project is a starting point for a Flutter application.
+## Implementation
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/16286046/72804948-03fb3100-3c52-11ea-9cff-3a592188a335.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Another implementation :)
+![ezgif com-video-to-gif (8)](https://user-images.githubusercontent.com/16286046/72804945-02ca0400-3c52-11ea-8c3b-175c5391c327.gif)
